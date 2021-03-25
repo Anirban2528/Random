@@ -87,6 +87,6 @@ if opt=='y':
 	print()
 	s=Snakegame(name,name1)
 else:
-	print('\tGo and eat aluchop')
+	print('\tThank you')
 	time.sleep(10)
 	sys.exit()
